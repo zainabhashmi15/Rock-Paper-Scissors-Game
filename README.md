@@ -1,8 +1,5 @@
 # Rock-Paper-Scissors-Game
-
-
 import random
-
 while True:
     # Get player name
     player_name = input("Enter your name: ")
